@@ -1,3 +1,9 @@
+## 0.6.0(2020-06-28)
+1. 新增
+    - 新增所有事件都有的预置属性 `$app_id` 和 `$timezone_offset`；
+2. 修复
+    - `$MPLaunch` 预置事件缺少 `$latest_scene` 预置属性问题；
+
 ## 0.5.0(2020-06-22)
 1. 新增
     - 新增全埋点版 QQ 小程序 SDK，源码文件为 `sensorsdata.autotrack.min.js`;
