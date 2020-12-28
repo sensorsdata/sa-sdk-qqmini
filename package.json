@@ -1,6 +1,6 @@
 {
   "name": "sa-sdk-qqmini",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "神策QQ小程序SDK",
   "main": "sensorsdata.min.js",
   "scripts": {
